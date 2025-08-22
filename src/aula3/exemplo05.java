@@ -29,7 +29,7 @@ public class exemplo05 {
             }
     } else {
        
-    System.out.println("reprovado");
+    System.out.println("repronvado");
 
 }
 }
